@@ -2,3 +2,4 @@
 
 Notes and usage details for gittop.
 - link the usage section
+- fix a small wording issue
